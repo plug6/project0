@@ -1,1 +1,2 @@
 HELLO BUDDY
+ git config --global user.name
